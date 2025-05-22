@@ -55,7 +55,7 @@
                 <figcaption>Our development team working together on the TechCorp Solutions project</figcaption>
             </figure>
 
-            
+            <!-- Updated Project Contributions Section for Part 2 -->
             <h3>Project Contributions - Updated for Part 2</h3>
             <dl class="contributions">
                 <dt>Chanuth Senviru (105549359)</dt>
